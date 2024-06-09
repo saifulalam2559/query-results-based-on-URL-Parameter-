@@ -93,7 +93,7 @@ This example assumes you have a model named `YourModel` and a column named `colu
 
 ## License
 
-This project is open-sourced software licensed under the [MIT license](LICENSE).
+This project is open-sourced software licensed under the [MIT license](https://github.com/saifulalam2559/query-results-based-on-URL-Parameter-/blob/main/LICENSE.md).
 <p>Feel free to contact me <a href="mailto:me@saiful.eu">me@saiful.eu</a> , if you have any questions or suggestions. Thank you. </p>
 
 
