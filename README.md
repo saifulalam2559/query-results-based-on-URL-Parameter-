@@ -94,6 +94,6 @@ This example assumes you have a model named `YourModel` and a column named `colu
 ## License
 
 This project is open-sourced software licensed under the [MIT license](LICENSE).
+<p>Feel free to contact to <a href="mailto:me@saiful.eu">me@saiful.eu</a> , if you have any questions or suggestions. Thank you. </p>
 ```
 
-<p>Feel free to contact to <a href="mailto:me@saiful.eu">me@saiful.eu</a> , if you have any questions or suggestions. Thank you. </p>
