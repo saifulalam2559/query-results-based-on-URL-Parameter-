@@ -95,3 +95,5 @@ This example assumes you have a model named `YourModel` and a column named `colu
 
 This project is open-sourced software licensed under the [MIT license](LICENSE).
 ```
+
+Feel free to customize the placeholders (`YourModel`, `column_name`, `your_view`, etc.) to match your actual code and project structure.
